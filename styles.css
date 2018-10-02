@@ -12,3 +12,10 @@ font-size:24px;
 #le-texte-3 {
 	color:purple;
 }
+
+#la-boite-jaune {
+	width:250px;
+position:fixed;
+top:30px;
+left:150px;
+}
