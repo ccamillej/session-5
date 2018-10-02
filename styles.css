@@ -4,3 +4,11 @@ body {
 
 #fixed-block {
 }
+
+.alert
+{color:red;
+font-size:24px;	
+	}
+#le-texte-3 {
+	color:purple;
+}
